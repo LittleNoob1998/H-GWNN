@@ -13,7 +13,7 @@ EV-GCN https://github.com/IBM/EvolveGCN
 
 Hi-GCN https://github.com/haojiang1/hi-GCN  
 
-NVS-GCN https://github.com/GuangqiWen/MVS-GCN  
+MVS-GCN https://github.com/GuangqiWen/MVS-GCN  
 
 WL-DeepGCN https://github.com/Charles-wmz/WL-DeepGCN  
 
