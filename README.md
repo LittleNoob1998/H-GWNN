@@ -1,7 +1,7 @@
 # H-GWNN
 Code for Homogeneous Graph Wavelet Neural Network
 
-#Code for Comparing  
+# Code for Comparing  
 
 DNN https://github.com/lsa-pucrs/acerta-abide  
 
